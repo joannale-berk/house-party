@@ -1,14 +1,14 @@
 [
-  { "id": 1,  "title": "Always On My Mind (Let U Go)", "artist": "Sound for Someone", "url": "/sound for someone/Always On My Mind (Let U Go).mp3" },
-  { "id": 2,  "title": "Desire",                       "artist": "Sound for Someone", "url": "/sound for someone/Desire.mp3" },
-  { "id": 3,  "title": "Don't Wake Me Up",             "artist": "Sound for Someone", "url": "/sound for someone/Don't Wake Me Up.mp3" },
-  { "id": 4,  "title": "Feel It In My",                "artist": "Sound for Someone", "url": "/sound for someone/Feel it in My.mp3" },
-  { "id": 5,  "title": "I'm Not Alone 2019 Edit",      "artist": "Sound for Someone", "url": "/sound for someone/I'm Not Alone - 2019 Edit.mp3" },
-  { "id": 6,  "title": "I've Arrived",                 "artist": "Sound for Someone", "url": "/sound for someone/I've Arrived (with Tomike).mp3" },
-  { "id": 7,  "title": "It Gets Better Forever Mix",   "artist": "Sound for Someone", "url": "/sound for someone/It Gets Better - Forever Mix.mp3" },
-  { "id": 8,  "title": "Just Feels Tight",             "artist": "Sound for Someone", "url": "/sound for someone/Just Feels Tight.mp3" },
-  { "id": 9,  "title": "Savana",                       "artist": "Sound for Someone", "url": "/sound for someone/Savana.mp3" },
-  { "id": 10, "title": "What's A Girl To Do",          "artist": "Sound for Someone", "url": "/sound for someone/What's A Girl To Do.mp3" },
-  { "id": 11, "title": "World Hold On FISHER Rework",  "artist": "Sound for Someone", "url": "/sound for someone/World, Hold On - FISHER Rework.mp3" },
-  { "id": 12, "title": "Yosemite",                     "artist": "Sound for Someone", "url": "/sound for someone/Yosemite.mp3" }
+  { "id": 1,  "title": "Always On My Mind (Let U Go)", "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354532/Always_On_My_Mind_Let_U_Go_v4db20.mp3" },
+  { "id": 2,  "title": "Desire",                       "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/q_auto/f_auto/v1775354528/Desire_ns1exd.mp3" },
+  { "id": 3,  "title": "Don't Wake Me Up",             "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/q_auto/f_auto/v1775354529/Don_t_Wake_Me_Up_vgxknt.mp3" },
+  { "id": 4,  "title": "Feel It In My",                "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354538/Feel_it_in_My_ad4t75.mp3" },
+  { "id": 5,  "title": "I'm Not Alone 2019 Edit",      "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354533/I_m_Not_Alone_-_2019_Edit_eibgmf.mp3" },
+  { "id": 6,  "title": "I've Arrived",                 "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354537/I_ve_Arrived_with_Tomike_cihtlh.mp3" },
+  { "id": 7,  "title": "It Gets Better Forever Mix",   "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354534/It_Gets_Better_-_Forever_Mix_peoafa.mp3" },
+  { "id": 8,  "title": "Just Feels Tight",             "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354536/Just_Feels_Tight_ifp1z2.mp3" },
+  { "id": 9,  "title": "Savana",                       "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354540/Savana_odvlzs.mp3" },
+  { "id": 10, "title": "What's A Girl To Do",          "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354541/What_s_A_Girl_To_Do_orvrm9.mp3" },
+  { "id": 11, "title": "World Hold On FISHER Rework",  "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354541/World_Hold_On_-_FISHER_Rework_fh8yo4.mp3" },
+  { "id": 12, "title": "Yosemite",                     "artist": "Sound for Someone", "url": "https://res.cloudinary.com/doftwcn2n/video/upload/v1775354543/Yosemite_qgdgcl.mp33" }
 ]
