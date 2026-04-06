@@ -172,27 +172,6 @@ export default function LandingPage({ onStart }: Props) {
           </div>
         </div>
 
-        {/* Subtitle */}
-        <p style={{
-          color: "rgba(200,180,255,0.55)",
-          fontSize: "clamp(7px, 1.1vw, 10px)",
-          fontFamily: "'Press Start 2P', monospace",
-          letterSpacing: "0.12em",
-          marginTop: 8,
-        }}>
-          Let your body create the beat!
-        </p>
-
-        {/* Bottom label */}
-        <p style={{
-          position: "absolute", bottom: 24,
-          color: "rgba(200,180,255,0.35)",
-          fontSize: "clamp(7px, 0.9vw, 9px)",
-          fontFamily: "'Press Start 2P', monospace",
-          letterSpacing: "0.15em",
-        }}>
-          Mood-Based Music
-        </p>
       </div>
 
       <style>{`
