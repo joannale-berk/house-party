@@ -1,9 +1,3 @@
-// generate-manifest.js
-// ─────────────────────────────────────────────────────────────────────────────
-// Run this script whenever you add or remove songs:
-//
-//   node generate-manifest.js
-//
 // It scans  public/sound for someone/  and writes  public/sounds.json.
 // Then commit both the MP3s and sounds.json and push to GitHub — Vercel
 // will serve the updated tracks automatically.
